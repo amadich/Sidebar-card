@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Sidebar-card/static/css/main.9d78ce8e.css",
+    "main.js": "/Sidebar-card/static/js/main.bb62aed8.js",
+    "static/media/mak0.mp4": "/Sidebar-card/static/media/mak0.bfa1ef6bde9074efa6a6.mp4",
+    "static/media/state_yn.png": "/Sidebar-card/static/media/state_yn.fc1d73eec8755ba709ea.png",
+    "static/media/yn2.png": "/Sidebar-card/static/media/yn2.84903a056228fecad3f2.png",
+    "index.html": "/Sidebar-card/index.html",
+    "main.9d78ce8e.css.map": "/Sidebar-card/static/css/main.9d78ce8e.css.map",
+    "main.bb62aed8.js.map": "/Sidebar-card/static/js/main.bb62aed8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d78ce8e.css",
+    "static/js/main.bb62aed8.js"
+  ]
+}
